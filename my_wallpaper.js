@@ -1,3 +1,5 @@
+//WROTE THIS CODE ON MY OWN, DIDNT REALIZE CODE WOULD BE PROVIDED UNTIL AFTER I FINISHED, DONT HAVE TIME TO CHANGE EVERYTHING
+
 // Define parameters
 let size, mouse, baseColor, turtleGreen, distance, motifRotation, randBandanaCol, backgroundColor;
 
